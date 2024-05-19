@@ -1,0 +1,6 @@
+manager\config\SecurityConfig.class
+manager\controller\AdminController.class
+manager\controller\UserController.class
+manager\ManagerApplication.class
+manager\service\AccessService.class
+manager\utility\HeaderUtil.class
